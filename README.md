@@ -1,2 +1,2 @@
-# macOS-on-a-Virtual-Machine
-macOS-on-a-Virtual-Machine
+1. Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+2. 
